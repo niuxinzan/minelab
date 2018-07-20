@@ -4,3 +4,5 @@
 # @Email   : niuxinzan@cennavi.com.cn
 # @File    : Alex.py
 # @Software: PyCharm
+def inference():
+    pass
