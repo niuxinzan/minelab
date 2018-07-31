@@ -4,6 +4,7 @@
 # @Email   : niuxinzan@cennavi.com.cn
 # @File    : LeNet5.py
 # @Software: PyCharm
+# 三个卷积层，两个下采样层，一个全连接层
 import tensorflow as tf
 
 # LeNet5网路结构

@@ -4,3 +4,6 @@
 # @Email   : niuxinzan@cennavi.com.cn
 # @File    : Weather.py
 # @Software: PyCharm
+class Cntf(object):
+    pass
+

@@ -1,5 +1,5 @@
 """
-Simple tester for the vgg19_trainable
+
 """
 
 import tensorflow as tf
